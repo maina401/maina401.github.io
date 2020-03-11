@@ -1,0 +1,14 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '/public/css/mdb-pro.min.css';
+@import "public/css/mdb.lite.min.css";
+.navbar{
+    background-color: transparent;
+}
+
